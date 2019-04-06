@@ -1,5 +1,16 @@
-# EmojiCheatSheet
-People
+
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Phantom_Open_Emoji_1f4a9.svg/600px-Phantom_Open_Emoji_1f4a9.svg.png" alt="logo" width="72" height="72">
+</p>
+
+<h1 align="center"><strong>EmojiCheatSheet</strong></h1>
+
+<p align="center">
+     Emoji Cheat Sheet for GitGub
+</p>
+
+<h3 align="center"><strong>People</strong></h3>
+
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
@@ -68,7 +79,7 @@ People
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
-Nature
+<h3 align="center"><strong>Nature</strong></h3>
 
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 |---|---|---|
@@ -111,7 +122,8 @@ Nature
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 | :squirrel: `:squirrel:` |
 
-Objects
+<h3 align="center"><strong>Objects</strong></h3>
+
 
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 |---|---|---|
@@ -202,7 +214,8 @@ Objects
 | :sweet_potato: `:sweet_potato:` | :eggplant: `:eggplant:` | :tomato: `:tomato:` |
 | :corn: `:corn:` |
 
-Places
+<h3 align="center"><strong>Places</strong></h3>
+
 
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 |---|---|---|
@@ -242,7 +255,7 @@ Places
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
 | :de: `:de:` |
 
-Symbols
+<h3 align="center"><strong>Symbols</strong></h3>
 
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 |---|---|---|
